@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Roboto:wght@100;400&display=swap');
+
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-style: 'Roboto'!important;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName ,#resultEmotionName2  
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-style: 'Roboto';
+}
+label
+{
+    font-size: 2.0rem;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+button{
+  font-size: 2rem !important;
+}
+
+h3{
+  transition: 2s !important;
+}
